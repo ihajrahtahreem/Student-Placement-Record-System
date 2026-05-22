@@ -1,0 +1,13 @@
+===== PLACEMENT REPORT =====
+
+Name: Aisha Khan | Department: Computer Science | Company: Google | Package: 12.0 LPA
+Name: Rohan Verma | Department: CSE | Company: TCS | Package: 4.5 LPA
+Name: Ali Hussain | Department: IT | Company: TCS | Package: 4.5 LPA
+Name: Sneha Gupta | Department: ECE | Company: Infosys | Package: 3.8 LPA
+Name: Adnan Khan | Department: CSE | Company: Infosys | Package: 3.8 LPA
+Name: Priyanka Singh | Department: IT | Company: Google | Package: 12.0 LPA
+Name: Mohit Sharma | Department: CSE | Company: Google | Package: 12.0 LPA
+Name: Arif Shaikh | Department: ECE | Company: Wipro | Package: 4.0 LPA
+Name: Kavya Nair | Department: CSE | Company: Wipro | Package: 4.0 LPA
+Name: Ritika Jain | Department: IT | Company: Amazon | Package: 8.0 LPA
+Name: Yusuf Ali | Department: CSE | Company: Amazon | Package: 8.0 
