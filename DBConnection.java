@@ -1,3 +1,4 @@
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 
@@ -9,7 +10,7 @@ public class DBConnection {
 
             String url = "jdbc:mysql://localhost:3306/college";
             String username = "root";
-            String password = "Hajrah@1";
+            String password = "your_mysql_password";
 
             return DriverManager.getConnection(url, username, password);
 
